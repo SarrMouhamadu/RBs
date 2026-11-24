@@ -1,0 +1,53 @@
+name: RBS
+options:
+  bundleIdPrefix: com.ratoushababyshop
+  xcodeVersion: "2700"
+  deploymentTarget:
+    iOS: "17.0"
+    macOS: "14.0"
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    DEVELOPMENT_TEAM: ZGS6PT6427
+    CODE_SIGN_STYLE: Automatic
+    MARKETING_VERSION: "1.0"
+    CURRENT_PROJECT_VERSION: "1"
+    ENABLE_DEBUG_DYLIB: NO
+    ENABLE_USER_SCRIPT_SANDBOXING: YES
+    ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS: YES
+    LOCALIZATION_PREFERS_STRING_CATALOGS: YES
+    CLANG_CXX_LANGUAGE_STANDARD: "gnu++20"
+    GCC_C_LANGUAGE_STANDARD: "gnu17"
+    STRING_CATALOG_GENERATE_SYMBOLS: YES
+targets:
+  RBS:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - path: ContentView.swift
+      - path: File.swift
+      - path: Assets.xcassets
+      - path: Resources
+        buildPhase: resources
+    settings:
+      base:
+        PRODUCT_NAME: "RBS"
+        PRODUCT_BUNDLE_IDENTIFIER: com.ratoushababyshop.app
+        DEVELOPMENT_TEAM: ZGS6PT6427
+        CODE_SIGN_STYLE: Automatic
+        MARKETING_VERSION: "1.0"
+        CURRENT_PROJECT_VERSION: "1"
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        GENERATE_INFOPLIST_FILE: YES
+        INFOPLIST_KEY_CFBundleDisplayName: "RBS Boutique"
+        INFOPLIST_KEY_LSApplicationCategoryType: "public.app-category.shopping"
+        INFOPLIST_KEY_NSPhotoLibraryUsageDescription: "RBS utilise l'accès à vos photos uniquement pour permettre à l'administrateur d'ajouter des photos d'articles dans le catalogue."
+        INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+        INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents: YES
+        INFOPLIST_KEY_UILaunchScreen_Generation: YES
+        INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad: "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight"
+        INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone: "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight"
+        TARGETED_DEVICE_FAMILY: "1,2"
+        SUPPORTED_PLATFORMS: "iphonesimulator iphoneos macosx"
+        SUPPORTS_MACCATALYST: NO

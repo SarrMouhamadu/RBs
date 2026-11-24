@@ -1,0 +1,603 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		03835C1FDB9ACEF22B8794FE /* t-shirt gris.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BA970BD727426A2647F3AF70 /* t-shirt gris.jpeg */; };
+		05E482C1FE006C521004A602 /* WhatsApp Image 2026-11-12 at 21.28.07 (3).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 01505BBDED89925DE71F45A8 /* WhatsApp Image 2026-11-12 at 21.28.07 (3).jpeg */; };
+		07DAE38129774161FE513613 /* chaussures noir.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0CC1CDCEBD51E288A9341CD1 /* chaussures noir.jpeg */; };
+		0E710383953EB9E8804DA72E /* WhatsApp Image 2026-11-12 at 21.28.10 (4).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5B5325BA0E1467AEF28F2B11 /* WhatsApp Image 2026-11-12 at 21.28.10 (4).jpeg */; };
+		10DB7618BE115FF29AE037E1 /* WhatsApp Image 2026-11-12 at 21.28.09 (1).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 122C4E9A51042D0D894DE5E3 /* WhatsApp Image 2026-11-12 at 21.28.09 (1).jpeg */; };
+		12183E7302D0D83594C7CE97 /* WhatsApp Image 2026-11-12 at 21.28.08 (2).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 61A65A1B84C1DC14E36ECF32 /* WhatsApp Image 2026-11-12 at 21.28.08 (2).jpeg */; };
+		14E0E98E1B62042351BFA84D /* WhatsApp Image 2026-11-12 at 21.26.47.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 54B01BE6F01115CE44219558 /* WhatsApp Image 2026-11-12 at 21.26.47.jpeg */; };
+		243FC3929719363947FC983B /* t-shirt rouge.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D5BB019AA39F705CFB15FD6B /* t-shirt rouge.jpeg */; };
+		27AE412083F225FB670678E5 /* chemineblue.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1E2DB123A53D6A1971D26A4B /* chemineblue.jpeg */; };
+		2E55F6B5879F644916087227 /* chaussures foot.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 53E87D6D0DEC60C934907619 /* chaussures foot.jpeg */; };
+		2F15C238B41C33635B9EBB7C /* tissue maron.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3578F9D3E420DD611DC8434F /* tissue maron.jpeg */; };
+		310786970141B112DF40B1FF /* WhatsApp Image 2026-11-12 at 21.28.10 (3).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F0AEF252E2968C8ED0034A84 /* WhatsApp Image 2026-11-12 at 21.28.10 (3).jpeg */; };
+		32C105676AC15FF8FF1CDD77 /* chaussures noire homme.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 795F9F961959C1B765FEC509 /* chaussures noire homme.jpeg */; };
+		35BCE2DA8FFF3C43B1E54171 /* lacoste.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E379D3F5AC1B9EC0ACEAD719 /* lacoste.jpeg */; };
+		36083853E21CAE63116D263C /* t-shirt blue.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9A197AA33558B45239ED51EE /* t-shirt blue.jpeg */; };
+		3973CCF4CD89D047152E31AC /* chaussures .jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 07AF6C9982CF2A1CB8CABC9E /* chaussures .jpeg */; };
+		421B3F8CD8F23125624A9A54 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA3BF09D35678274370D83CC /* ContentView.swift */; };
+		44B33A754249D23276CA4FC2 /* chaussures nike.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FAE90958587B0DB8262BC789 /* chaussures nike.jpeg */; };
+		4A6757D4F8C015006E1C3615 /* chemine .jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9EF35E42F6DED3087A77870D /* chemine .jpeg */; };
+		51041D2C81DC2242376CDC6C /* WhatsApp Image 2026-11-12 at 21.28.07 (4).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 099B60FE77667FC7DBF0CC69 /* WhatsApp Image 2026-11-12 at 21.28.07 (4).jpeg */; };
+		511F04108BD51614C31B4729 /* WhatsApp Image 2026-11-12 at 21.28.09 (6).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = ED408054D55840CF8FC20395 /* WhatsApp Image 2026-11-12 at 21.28.09 (6).jpeg */; };
+		52A990EE91FB9CF07F003632 /* WhatsApp Image 2026-11-12 at 21.28.10 (2).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9A9EA7FEEF6961A7638D8417 /* WhatsApp Image 2026-11-12 at 21.28.10 (2).jpeg */; };
+		5959098FE3943DA44FEB6979 /* WhatsApp Image 2026-11-12 at 21.28.09 (2).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 47A706F8D49B03BF9832B0D1 /* WhatsApp Image 2026-11-12 at 21.28.09 (2).jpeg */; };
+		5D4446BCEEB67918C2CC5FFB /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F1671CBAC1B07199C84C042 /* File.swift */; };
+		5F19AD8E12E32E49A967C1D7 /* WhatsApp Image 2026-11-12 at 21.28.08 (4).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DD1139E22FF63870397F8ADB /* WhatsApp Image 2026-11-12 at 21.28.08 (4).jpeg */; };
+		650C6D2721E1D368837157DE /* chaussures hommes.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 480296E03FB653E18AABDF39 /* chaussures hommes.jpeg */; };
+		6AAAA8D78FF4E03C9289039F /* jean.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AD63631F40B52EB27005BF64 /* jean.jpeg */; };
+		6C9DF20A9E81E06184D8E386 /* WhatsApp Image 2026-11-12 at 21.26.49.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8431879A2A4B73F85100CB98 /* WhatsApp Image 2026-11-12 at 21.26.49.jpeg */; };
+		6D8B28ACF5F58893550D9D59 /* WhatsApp Image 2026-11-12 at 21.28.09.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7E41F9586E039880B76C4ABF /* WhatsApp Image 2026-11-12 at 21.28.09.jpeg */; };
+		6FB6EE377FAFD4F7431A7DE0 /* chemine blue.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FDCFAF9E7BAF2B951B2D5AAE /* chemine blue.jpeg */; };
+		73585AD86465F6B4E48D312F /* WhatsApp Image 2026-11-12 at 21.28.10 (7).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D0B575C656AD390AC2FDE290 /* WhatsApp Image 2026-11-12 at 21.28.10 (7).jpeg */; };
+		79D2BE4D8C7D909BF177FD54 /* WhatsApp Image 2026-11-12 at 21.26.51.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DC7E0EF5D756D65D63FA4F57 /* WhatsApp Image 2026-11-12 at 21.26.51.jpeg */; };
+		7ABBC54B5423AD2202A8A6BA /* WhatsApp Image 2026-11-12 at 21.28.11 (1).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7607F7DDD22CAABB82150ECE /* WhatsApp Image 2026-11-12 at 21.28.11 (1).jpeg */; };
+		7E244ED0BA6328E8374FFAB1 /* WhatsApp Image 2026-11-12 at 21.26.46.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C16B8130864C4D9F259DE598 /* WhatsApp Image 2026-11-12 at 21.26.46.jpeg */; };
+		8485D1F4F8AE7292EFA7E516 /* logo RBS.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F35BC4FDF1ED42D7997642B1 /* logo RBS.jpeg */; };
+		8DF6114D2BCD04A07B5C67B0 /* kaku.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5B73E90A9095B030EBAB5AD4 /* kaku.jpeg */; };
+		9179EEB91DFF3FC12356DE65 /* WhatsApp Image 2026-11-12 at 21.28.08 (3).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4670804B755D8D5D0975871E /* WhatsApp Image 2026-11-12 at 21.28.08 (3).jpeg */; };
+		921F2FE25578583FDB835ACD /* WhatsApp Image 2026-11-12 at 21.28.05 (2).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 820BA8091E86F921FB84FAE1 /* WhatsApp Image 2026-11-12 at 21.28.05 (2).jpeg */; };
+		97A845821E169F79F923E273 /* WhatsApp Image 2026-11-12 at 21.26.50.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B237E97CD562E7E96DF23DE /* WhatsApp Image 2026-11-12 at 21.26.50.jpeg */; };
+		995B860DCABBEFBBB27CEFE5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0EF0FAB58BE8C97C1FFF9C48 /* Assets.xcassets */; };
+		A1EAB515063C4119027FB398 /* WhatsApp Image 2026-11-12 at 21.28.08 (1).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E77920B7E08D80C229C424B3 /* WhatsApp Image 2026-11-12 at 21.28.08 (1).jpeg */; };
+		ABA573219CFF96EF6316D01C /* chaussures.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AA818532C6037606FCC46C87 /* chaussures.jpeg */; };
+		ABD762BF1518E73D0E429C99 /* chaussures copie.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 95C7BD659E6E1616CD496641 /* chaussures copie.jpeg */; };
+		AEDA6C7F350A76CD92C421A8 /* WhatsApp Image 2026-11-12 at 21.28.09 (5).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9C362BB6F924281EE6689605 /* WhatsApp Image 2026-11-12 at 21.28.09 (5).jpeg */; };
+		AF6C27459F331EBC8E45C42C /* WhatsApp Image 2026-11-12 at 21.28.11.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 33F45EC92F0E15D809595B18 /* WhatsApp Image 2026-11-12 at 21.28.11.jpeg */; };
+		AFA5A09119EC711708DF5B2D /* WhatsApp Image 2026-11-12 at 21.28.06 (4).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9D7B2E2821FFE1B42A424D76 /* WhatsApp Image 2026-11-12 at 21.28.06 (4).jpeg */; };
+		B193E3651B4839D3FD460657 /* WhatsApp Image 2026-11-12 at 21.28.10 (1).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D4B60A68B20B6C49C1D9CF59 /* WhatsApp Image 2026-11-12 at 21.28.10 (1).jpeg */; };
+		B3A96DDCB8AA5C12C7884FA9 /* WhatsApp Image 2026-11-12 at 21.28.08 (5).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6360AC17F175A5B7A9B1F6F8 /* WhatsApp Image 2026-11-12 at 21.28.08 (5).jpeg */; };
+		BA821AEE74E039A1C29AF64E /* WhatsApp Image 2026-11-12 at 21.28.06 (6).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2896CDF860B4052EDE7020DF /* WhatsApp Image 2026-11-12 at 21.28.06 (6).jpeg */; };
+		BEE1689B85F9EB3B7B05AA2E /* WhatsApp Image 2026-11-12 at 21.28.07.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 08ECB4ED87703BB218206406 /* WhatsApp Image 2026-11-12 at 21.28.07.jpeg */; };
+		C0B1F5A1CB86E04F2CB0A6A4 /* WhatsApp Image 2026-11-12 at 21.28.10 (6).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8A93FCA7330163EF2FC5589A /* WhatsApp Image 2026-11-12 at 21.28.10 (6).jpeg */; };
+		C8D294E4B262535BAAAE09A4 /* t-shirt orange.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9EE30E260A2FA9F17EC585DD /* t-shirt orange.jpeg */; };
+		C97116845E6F26858266F153 /* tissue blanc .jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FD3B72CE3F0D2326BDA8B4D4 /* tissue blanc .jpeg */; };
+		CC2109CD64C6E9683D20751B /* chaussure nike blue et rouge.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CF4975A021A4328CF8C74F4A /* chaussure nike blue et rouge.jpeg */; };
+		D2D9E7B04C9411CD9204D8F5 /* WhatsApp Image 2026-11-12 at 21.28.10 (5).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4127D515602DF099AED654CD /* WhatsApp Image 2026-11-12 at 21.28.10 (5).jpeg */; };
+		D53DCF7A2A0D32F205666EA2 /* WhatsApp Image 2026-11-12 at 21.28.07 (2).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 555EB2ED10F57EC48817173D /* WhatsApp Image 2026-11-12 at 21.28.07 (2).jpeg */; };
+		D64FEE843496FEF8E261C859 /* chaussurs.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = ADBC5CC01E8B94B752578121 /* chaussurs.jpeg */; };
+		DB4A133052E89A5F93F5AF01 /* WhatsApp Image 2026-11-12 at 21.28.08.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5B742809A067C378FDC1600F /* WhatsApp Image 2026-11-12 at 21.28.08.jpeg */; };
+		DF1F1554F77A2CA15F3206D7 /* tissue gris .jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B508181419AAD15C08362C62 /* tissue gris .jpeg */; };
+		E45D76A11F8553E5031EA1EA /* WhatsApp Image 2026-11-12 at 21.28.09 (3).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F5485566D224288C938F4576 /* WhatsApp Image 2026-11-12 at 21.28.09 (3).jpeg */; };
+		E4B7F28D54756247D6BF7643 /* adidas.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9A847A814E38AD9F90CEABEE /* adidas.jpeg */; };
+		EE3F4B829732E01A0617F164 /* WhatsApp Image 2026-11-12 at 21.28.05 (1).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 46754D58E02F9856C1AA1EF4 /* WhatsApp Image 2026-11-12 at 21.28.05 (1).jpeg */; };
+		F077D0DBE432DE779772968F /* chaussurs foot.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3F8A94657DA72DAC6B1FD4B0 /* chaussurs foot.jpeg */; };
+		F306FBDFDCD6B09F52096A74 /* maron chaussures.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F2F33490A1F51C0CC7179363 /* maron chaussures.jpeg */; };
+		FBEBD3FEB37889943960838F /* WhatsApp Image 2026-11-12 at 21.28.09 (4).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FFA9167EBFF88B766CA5F8E1 /* WhatsApp Image 2026-11-12 at 21.28.09 (4).jpeg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		01505BBDED89925DE71F45A8 /* WhatsApp Image 2026-11-12 at 21.28.07 (3).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.07 (3).jpeg"; sourceTree = "<group>"; };
+		07AF6C9982CF2A1CB8CABC9E /* chaussures .jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chaussures .jpeg"; sourceTree = "<group>"; };
+		08ECB4ED87703BB218206406 /* WhatsApp Image 2026-11-12 at 21.28.07.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.07.jpeg"; sourceTree = "<group>"; };
+		099B60FE77667FC7DBF0CC69 /* WhatsApp Image 2026-11-12 at 21.28.07 (4).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.07 (4).jpeg"; sourceTree = "<group>"; };
+		0CC1CDCEBD51E288A9341CD1 /* chaussures noir.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chaussures noir.jpeg"; sourceTree = "<group>"; };
+		0EF0FAB58BE8C97C1FFF9C48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		122C4E9A51042D0D894DE5E3 /* WhatsApp Image 2026-11-12 at 21.28.09 (1).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.09 (1).jpeg"; sourceTree = "<group>"; };
+		1E2DB123A53D6A1971D26A4B /* chemineblue.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chemineblue.jpeg; sourceTree = "<group>"; };
+		2896CDF860B4052EDE7020DF /* WhatsApp Image 2026-11-12 at 21.28.06 (6).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.06 (6).jpeg"; sourceTree = "<group>"; };
+		33F45EC92F0E15D809595B18 /* WhatsApp Image 2026-11-12 at 21.28.11.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.11.jpeg"; sourceTree = "<group>"; };
+		3578F9D3E420DD611DC8434F /* tissue maron.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tissue maron.jpeg"; sourceTree = "<group>"; };
+		3F8A94657DA72DAC6B1FD4B0 /* chaussurs foot.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chaussurs foot.jpeg"; sourceTree = "<group>"; };
+		4127D515602DF099AED654CD /* WhatsApp Image 2026-11-12 at 21.28.10 (5).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.10 (5).jpeg"; sourceTree = "<group>"; };
+		4670804B755D8D5D0975871E /* WhatsApp Image 2026-11-12 at 21.28.08 (3).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.08 (3).jpeg"; sourceTree = "<group>"; };
+		46754D58E02F9856C1AA1EF4 /* WhatsApp Image 2026-11-12 at 21.28.05 (1).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.05 (1).jpeg"; sourceTree = "<group>"; };
+		47A706F8D49B03BF9832B0D1 /* WhatsApp Image 2026-11-12 at 21.28.09 (2).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.09 (2).jpeg"; sourceTree = "<group>"; };
+		480296E03FB653E18AABDF39 /* chaussures hommes.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chaussures hommes.jpeg"; sourceTree = "<group>"; };
+		53E87D6D0DEC60C934907619 /* chaussures foot.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chaussures foot.jpeg"; sourceTree = "<group>"; };
+		54B01BE6F01115CE44219558 /* WhatsApp Image 2026-11-12 at 21.26.47.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.26.47.jpeg"; sourceTree = "<group>"; };
+		555EB2ED10F57EC48817173D /* WhatsApp Image 2026-11-12 at 21.28.07 (2).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.07 (2).jpeg"; sourceTree = "<group>"; };
+		5B5325BA0E1467AEF28F2B11 /* WhatsApp Image 2026-11-12 at 21.28.10 (4).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.10 (4).jpeg"; sourceTree = "<group>"; };
+		5B73E90A9095B030EBAB5AD4 /* kaku.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kaku.jpeg; sourceTree = "<group>"; };
+		5B742809A067C378FDC1600F /* WhatsApp Image 2026-11-12 at 21.28.08.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.08.jpeg"; sourceTree = "<group>"; };
+		61A65A1B84C1DC14E36ECF32 /* WhatsApp Image 2026-11-12 at 21.28.08 (2).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.08 (2).jpeg"; sourceTree = "<group>"; };
+		6360AC17F175A5B7A9B1F6F8 /* WhatsApp Image 2026-11-12 at 21.28.08 (5).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.08 (5).jpeg"; sourceTree = "<group>"; };
+		6B237E97CD562E7E96DF23DE /* WhatsApp Image 2026-11-12 at 21.26.50.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.26.50.jpeg"; sourceTree = "<group>"; };
+		6F1671CBAC1B07199C84C042 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		7607F7DDD22CAABB82150ECE /* WhatsApp Image 2026-11-12 at 21.28.11 (1).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.11 (1).jpeg"; sourceTree = "<group>"; };
+		795F9F961959C1B765FEC509 /* chaussures noire homme.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chaussures noire homme.jpeg"; sourceTree = "<group>"; };
+		7E41F9586E039880B76C4ABF /* WhatsApp Image 2026-11-12 at 21.28.09.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.09.jpeg"; sourceTree = "<group>"; };
+		820BA8091E86F921FB84FAE1 /* WhatsApp Image 2026-11-12 at 21.28.05 (2).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.05 (2).jpeg"; sourceTree = "<group>"; };
+		8431879A2A4B73F85100CB98 /* WhatsApp Image 2026-11-12 at 21.26.49.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.26.49.jpeg"; sourceTree = "<group>"; };
+		8A93FCA7330163EF2FC5589A /* WhatsApp Image 2026-11-12 at 21.28.10 (6).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.10 (6).jpeg"; sourceTree = "<group>"; };
+		95C7BD659E6E1616CD496641 /* chaussures copie.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chaussures copie.jpeg"; sourceTree = "<group>"; };
+		9A197AA33558B45239ED51EE /* t-shirt blue.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "t-shirt blue.jpeg"; sourceTree = "<group>"; };
+		9A847A814E38AD9F90CEABEE /* adidas.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = adidas.jpeg; sourceTree = "<group>"; };
+		9A9EA7FEEF6961A7638D8417 /* WhatsApp Image 2026-11-12 at 21.28.10 (2).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.10 (2).jpeg"; sourceTree = "<group>"; };
+		9C362BB6F924281EE6689605 /* WhatsApp Image 2026-11-12 at 21.28.09 (5).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.09 (5).jpeg"; sourceTree = "<group>"; };
+		9D7B2E2821FFE1B42A424D76 /* WhatsApp Image 2026-11-12 at 21.28.06 (4).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.06 (4).jpeg"; sourceTree = "<group>"; };
+		9EE30E260A2FA9F17EC585DD /* t-shirt orange.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "t-shirt orange.jpeg"; sourceTree = "<group>"; };
+		9EF35E42F6DED3087A77870D /* chemine .jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chemine .jpeg"; sourceTree = "<group>"; };
+		AA818532C6037606FCC46C87 /* chaussures.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chaussures.jpeg; sourceTree = "<group>"; };
+		AD63631F40B52EB27005BF64 /* jean.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jean.jpeg; sourceTree = "<group>"; };
+		ADBC5CC01E8B94B752578121 /* chaussurs.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chaussurs.jpeg; sourceTree = "<group>"; };
+		B508181419AAD15C08362C62 /* tissue gris .jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tissue gris .jpeg"; sourceTree = "<group>"; };
+		BA970BD727426A2647F3AF70 /* t-shirt gris.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "t-shirt gris.jpeg"; sourceTree = "<group>"; };
+		C16B8130864C4D9F259DE598 /* WhatsApp Image 2026-11-12 at 21.26.46.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.26.46.jpeg"; sourceTree = "<group>"; };
+		CA3BF09D35678274370D83CC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CF4975A021A4328CF8C74F4A /* chaussure nike blue et rouge.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chaussure nike blue et rouge.jpeg"; sourceTree = "<group>"; };
+		D0B575C656AD390AC2FDE290 /* WhatsApp Image 2026-11-12 at 21.28.10 (7).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.10 (7).jpeg"; sourceTree = "<group>"; };
+		D4B60A68B20B6C49C1D9CF59 /* WhatsApp Image 2026-11-12 at 21.28.10 (1).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.10 (1).jpeg"; sourceTree = "<group>"; };
+		D5BB019AA39F705CFB15FD6B /* t-shirt rouge.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "t-shirt rouge.jpeg"; sourceTree = "<group>"; };
+		D5F91C74FE1E52A5C0EB2F86 /* RBS.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = RBS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DC7E0EF5D756D65D63FA4F57 /* WhatsApp Image 2026-11-12 at 21.26.51.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.26.51.jpeg"; sourceTree = "<group>"; };
+		DD1139E22FF63870397F8ADB /* WhatsApp Image 2026-11-12 at 21.28.08 (4).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.08 (4).jpeg"; sourceTree = "<group>"; };
+		E379D3F5AC1B9EC0ACEAD719 /* lacoste.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lacoste.jpeg; sourceTree = "<group>"; };
+		E77920B7E08D80C229C424B3 /* WhatsApp Image 2026-11-12 at 21.28.08 (1).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.08 (1).jpeg"; sourceTree = "<group>"; };
+		ED408054D55840CF8FC20395 /* WhatsApp Image 2026-11-12 at 21.28.09 (6).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.09 (6).jpeg"; sourceTree = "<group>"; };
+		F0AEF252E2968C8ED0034A84 /* WhatsApp Image 2026-11-12 at 21.28.10 (3).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.10 (3).jpeg"; sourceTree = "<group>"; };
+		F2F33490A1F51C0CC7179363 /* maron chaussures.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "maron chaussures.jpeg"; sourceTree = "<group>"; };
+		F35BC4FDF1ED42D7997642B1 /* logo RBS.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "logo RBS.jpeg"; sourceTree = "<group>"; };
+		F5485566D224288C938F4576 /* WhatsApp Image 2026-11-12 at 21.28.09 (3).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.09 (3).jpeg"; sourceTree = "<group>"; };
+		FAE90958587B0DB8262BC789 /* chaussures nike.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chaussures nike.jpeg"; sourceTree = "<group>"; };
+		FD3B72CE3F0D2326BDA8B4D4 /* tissue blanc .jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tissue blanc .jpeg"; sourceTree = "<group>"; };
+		FDCFAF9E7BAF2B951B2D5AAE /* chemine blue.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "chemine blue.jpeg"; sourceTree = "<group>"; };
+		FFA9167EBFF88B766CA5F8E1 /* WhatsApp Image 2026-11-12 at 21.28.09 (4).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "WhatsApp Image 2026-11-12 at 21.28.09 (4).jpeg"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		011A6524D830CF0D17FAED15 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D5F91C74FE1E52A5C0EB2F86 /* RBS.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		15FDA3AF2D8CAAA2F704EFA6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9A847A814E38AD9F90CEABEE /* adidas.jpeg */,
+				CF4975A021A4328CF8C74F4A /* chaussure nike blue et rouge.jpeg */,
+				07AF6C9982CF2A1CB8CABC9E /* chaussures .jpeg */,
+				95C7BD659E6E1616CD496641 /* chaussures copie.jpeg */,
+				53E87D6D0DEC60C934907619 /* chaussures foot.jpeg */,
+				480296E03FB653E18AABDF39 /* chaussures hommes.jpeg */,
+				FAE90958587B0DB8262BC789 /* chaussures nike.jpeg */,
+				0CC1CDCEBD51E288A9341CD1 /* chaussures noir.jpeg */,
+				795F9F961959C1B765FEC509 /* chaussures noire homme.jpeg */,
+				AA818532C6037606FCC46C87 /* chaussures.jpeg */,
+				3F8A94657DA72DAC6B1FD4B0 /* chaussurs foot.jpeg */,
+				ADBC5CC01E8B94B752578121 /* chaussurs.jpeg */,
+				9EF35E42F6DED3087A77870D /* chemine .jpeg */,
+				FDCFAF9E7BAF2B951B2D5AAE /* chemine blue.jpeg */,
+				1E2DB123A53D6A1971D26A4B /* chemineblue.jpeg */,
+				AD63631F40B52EB27005BF64 /* jean.jpeg */,
+				5B73E90A9095B030EBAB5AD4 /* kaku.jpeg */,
+				E379D3F5AC1B9EC0ACEAD719 /* lacoste.jpeg */,
+				F35BC4FDF1ED42D7997642B1 /* logo RBS.jpeg */,
+				F2F33490A1F51C0CC7179363 /* maron chaussures.jpeg */,
+				9A197AA33558B45239ED51EE /* t-shirt blue.jpeg */,
+				BA970BD727426A2647F3AF70 /* t-shirt gris.jpeg */,
+				9EE30E260A2FA9F17EC585DD /* t-shirt orange.jpeg */,
+				D5BB019AA39F705CFB15FD6B /* t-shirt rouge.jpeg */,
+				FD3B72CE3F0D2326BDA8B4D4 /* tissue blanc .jpeg */,
+				B508181419AAD15C08362C62 /* tissue gris .jpeg */,
+				3578F9D3E420DD611DC8434F /* tissue maron.jpeg */,
+				C16B8130864C4D9F259DE598 /* WhatsApp Image 2026-11-12 at 21.26.46.jpeg */,
+				54B01BE6F01115CE44219558 /* WhatsApp Image 2026-11-12 at 21.26.47.jpeg */,
+				8431879A2A4B73F85100CB98 /* WhatsApp Image 2026-11-12 at 21.26.49.jpeg */,
+				6B237E97CD562E7E96DF23DE /* WhatsApp Image 2026-11-12 at 21.26.50.jpeg */,
+				DC7E0EF5D756D65D63FA4F57 /* WhatsApp Image 2026-11-12 at 21.26.51.jpeg */,
+				46754D58E02F9856C1AA1EF4 /* WhatsApp Image 2026-11-12 at 21.28.05 (1).jpeg */,
+				820BA8091E86F921FB84FAE1 /* WhatsApp Image 2026-11-12 at 21.28.05 (2).jpeg */,
+				9D7B2E2821FFE1B42A424D76 /* WhatsApp Image 2026-11-12 at 21.28.06 (4).jpeg */,
+				2896CDF860B4052EDE7020DF /* WhatsApp Image 2026-11-12 at 21.28.06 (6).jpeg */,
+				555EB2ED10F57EC48817173D /* WhatsApp Image 2026-11-12 at 21.28.07 (2).jpeg */,
+				01505BBDED89925DE71F45A8 /* WhatsApp Image 2026-11-12 at 21.28.07 (3).jpeg */,
+				099B60FE77667FC7DBF0CC69 /* WhatsApp Image 2026-11-12 at 21.28.07 (4).jpeg */,
+				08ECB4ED87703BB218206406 /* WhatsApp Image 2026-11-12 at 21.28.07.jpeg */,
+				E77920B7E08D80C229C424B3 /* WhatsApp Image 2026-11-12 at 21.28.08 (1).jpeg */,
+				61A65A1B84C1DC14E36ECF32 /* WhatsApp Image 2026-11-12 at 21.28.08 (2).jpeg */,
+				4670804B755D8D5D0975871E /* WhatsApp Image 2026-11-12 at 21.28.08 (3).jpeg */,
+				DD1139E22FF63870397F8ADB /* WhatsApp Image 2026-11-12 at 21.28.08 (4).jpeg */,
+				6360AC17F175A5B7A9B1F6F8 /* WhatsApp Image 2026-11-12 at 21.28.08 (5).jpeg */,
+				5B742809A067C378FDC1600F /* WhatsApp Image 2026-11-12 at 21.28.08.jpeg */,
+				122C4E9A51042D0D894DE5E3 /* WhatsApp Image 2026-11-12 at 21.28.09 (1).jpeg */,
+				47A706F8D49B03BF9832B0D1 /* WhatsApp Image 2026-11-12 at 21.28.09 (2).jpeg */,
+				F5485566D224288C938F4576 /* WhatsApp Image 2026-11-12 at 21.28.09 (3).jpeg */,
+				FFA9167EBFF88B766CA5F8E1 /* WhatsApp Image 2026-11-12 at 21.28.09 (4).jpeg */,
+				9C362BB6F924281EE6689605 /* WhatsApp Image 2026-11-12 at 21.28.09 (5).jpeg */,
+				ED408054D55840CF8FC20395 /* WhatsApp Image 2026-11-12 at 21.28.09 (6).jpeg */,
+				7E41F9586E039880B76C4ABF /* WhatsApp Image 2026-11-12 at 21.28.09.jpeg */,
+				D4B60A68B20B6C49C1D9CF59 /* WhatsApp Image 2026-11-12 at 21.28.10 (1).jpeg */,
+				9A9EA7FEEF6961A7638D8417 /* WhatsApp Image 2026-11-12 at 21.28.10 (2).jpeg */,
+				F0AEF252E2968C8ED0034A84 /* WhatsApp Image 2026-11-12 at 21.28.10 (3).jpeg */,
+				5B5325BA0E1467AEF28F2B11 /* WhatsApp Image 2026-11-12 at 21.28.10 (4).jpeg */,
+				4127D515602DF099AED654CD /* WhatsApp Image 2026-11-12 at 21.28.10 (5).jpeg */,
+				8A93FCA7330163EF2FC5589A /* WhatsApp Image 2026-11-12 at 21.28.10 (6).jpeg */,
+				D0B575C656AD390AC2FDE290 /* WhatsApp Image 2026-11-12 at 21.28.10 (7).jpeg */,
+				7607F7DDD22CAABB82150ECE /* WhatsApp Image 2026-11-12 at 21.28.11 (1).jpeg */,
+				33F45EC92F0E15D809595B18 /* WhatsApp Image 2026-11-12 at 21.28.11.jpeg */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		EF9269A4E361BE81A13E613D = {
+			isa = PBXGroup;
+			children = (
+				0EF0FAB58BE8C97C1FFF9C48 /* Assets.xcassets */,
+				CA3BF09D35678274370D83CC /* ContentView.swift */,
+				6F1671CBAC1B07199C84C042 /* File.swift */,
+				15FDA3AF2D8CAAA2F704EFA6 /* Resources */,
+				011A6524D830CF0D17FAED15 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		30D25D3BEBAAFB6FCFA48885 /* RBS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DDD44B55D97A863E95CA6B80 /* Build configuration list for PBXNativeTarget "RBS" */;
+			buildPhases = (
+				6F097BE562A4BDF3906F3187 /* Sources */,
+				B0A6630887FB126CBC4729AD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RBS;
+			packageProductDependencies = (
+			);
+			productName = RBS;
+			productReference = D5F91C74FE1E52A5C0EB2F86 /* RBS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		24CEDEC219852D3EF68E2848 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 2700;
+				TargetAttributes = {
+					30D25D3BEBAAFB6FCFA48885 = {
+						DevelopmentTeam = ZGS6PT6427;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = B64616B60E25533EC14D383F /* Build configuration list for PBXProject "RBS" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = EF9269A4E361BE81A13E613D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 011A6524D830CF0D17FAED15 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				30D25D3BEBAAFB6FCFA48885 /* RBS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B0A6630887FB126CBC4729AD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				995B860DCABBEFBBB27CEFE5 /* Assets.xcassets in Resources */,
+				7E244ED0BA6328E8374FFAB1 /* WhatsApp Image 2026-11-12 at 21.26.46.jpeg in Resources */,
+				14E0E98E1B62042351BFA84D /* WhatsApp Image 2026-11-12 at 21.26.47.jpeg in Resources */,
+				6C9DF20A9E81E06184D8E386 /* WhatsApp Image 2026-11-12 at 21.26.49.jpeg in Resources */,
+				97A845821E169F79F923E273 /* WhatsApp Image 2026-11-12 at 21.26.50.jpeg in Resources */,
+				79D2BE4D8C7D909BF177FD54 /* WhatsApp Image 2026-11-12 at 21.26.51.jpeg in Resources */,
+				EE3F4B829732E01A0617F164 /* WhatsApp Image 2026-11-12 at 21.28.05 (1).jpeg in Resources */,
+				921F2FE25578583FDB835ACD /* WhatsApp Image 2026-11-12 at 21.28.05 (2).jpeg in Resources */,
+				AFA5A09119EC711708DF5B2D /* WhatsApp Image 2026-11-12 at 21.28.06 (4).jpeg in Resources */,
+				BA821AEE74E039A1C29AF64E /* WhatsApp Image 2026-11-12 at 21.28.06 (6).jpeg in Resources */,
+				D53DCF7A2A0D32F205666EA2 /* WhatsApp Image 2026-11-12 at 21.28.07 (2).jpeg in Resources */,
+				05E482C1FE006C521004A602 /* WhatsApp Image 2026-11-12 at 21.28.07 (3).jpeg in Resources */,
+				51041D2C81DC2242376CDC6C /* WhatsApp Image 2026-11-12 at 21.28.07 (4).jpeg in Resources */,
+				BEE1689B85F9EB3B7B05AA2E /* WhatsApp Image 2026-11-12 at 21.28.07.jpeg in Resources */,
+				A1EAB515063C4119027FB398 /* WhatsApp Image 2026-11-12 at 21.28.08 (1).jpeg in Resources */,
+				12183E7302D0D83594C7CE97 /* WhatsApp Image 2026-11-12 at 21.28.08 (2).jpeg in Resources */,
+				9179EEB91DFF3FC12356DE65 /* WhatsApp Image 2026-11-12 at 21.28.08 (3).jpeg in Resources */,
+				5F19AD8E12E32E49A967C1D7 /* WhatsApp Image 2026-11-12 at 21.28.08 (4).jpeg in Resources */,
+				B3A96DDCB8AA5C12C7884FA9 /* WhatsApp Image 2026-11-12 at 21.28.08 (5).jpeg in Resources */,
+				DB4A133052E89A5F93F5AF01 /* WhatsApp Image 2026-11-12 at 21.28.08.jpeg in Resources */,
+				10DB7618BE115FF29AE037E1 /* WhatsApp Image 2026-11-12 at 21.28.09 (1).jpeg in Resources */,
+				5959098FE3943DA44FEB6979 /* WhatsApp Image 2026-11-12 at 21.28.09 (2).jpeg in Resources */,
+				E45D76A11F8553E5031EA1EA /* WhatsApp Image 2026-11-12 at 21.28.09 (3).jpeg in Resources */,
+				FBEBD3FEB37889943960838F /* WhatsApp Image 2026-11-12 at 21.28.09 (4).jpeg in Resources */,
+				AEDA6C7F350A76CD92C421A8 /* WhatsApp Image 2026-11-12 at 21.28.09 (5).jpeg in Resources */,
+				511F04108BD51614C31B4729 /* WhatsApp Image 2026-11-12 at 21.28.09 (6).jpeg in Resources */,
+				6D8B28ACF5F58893550D9D59 /* WhatsApp Image 2026-11-12 at 21.28.09.jpeg in Resources */,
+				B193E3651B4839D3FD460657 /* WhatsApp Image 2026-11-12 at 21.28.10 (1).jpeg in Resources */,
+				52A990EE91FB9CF07F003632 /* WhatsApp Image 2026-11-12 at 21.28.10 (2).jpeg in Resources */,
+				310786970141B112DF40B1FF /* WhatsApp Image 2026-11-12 at 21.28.10 (3).jpeg in Resources */,
+				0E710383953EB9E8804DA72E /* WhatsApp Image 2026-11-12 at 21.28.10 (4).jpeg in Resources */,
+				D2D9E7B04C9411CD9204D8F5 /* WhatsApp Image 2026-11-12 at 21.28.10 (5).jpeg in Resources */,
+				C0B1F5A1CB86E04F2CB0A6A4 /* WhatsApp Image 2026-11-12 at 21.28.10 (6).jpeg in Resources */,
+				73585AD86465F6B4E48D312F /* WhatsApp Image 2026-11-12 at 21.28.10 (7).jpeg in Resources */,
+				7ABBC54B5423AD2202A8A6BA /* WhatsApp Image 2026-11-12 at 21.28.11 (1).jpeg in Resources */,
+				AF6C27459F331EBC8E45C42C /* WhatsApp Image 2026-11-12 at 21.28.11.jpeg in Resources */,
+				E4B7F28D54756247D6BF7643 /* adidas.jpeg in Resources */,
+				CC2109CD64C6E9683D20751B /* chaussure nike blue et rouge.jpeg in Resources */,
+				3973CCF4CD89D047152E31AC /* chaussures .jpeg in Resources */,
+				ABD762BF1518E73D0E429C99 /* chaussures copie.jpeg in Resources */,
+				2E55F6B5879F644916087227 /* chaussures foot.jpeg in Resources */,
+				650C6D2721E1D368837157DE /* chaussures hommes.jpeg in Resources */,
+				44B33A754249D23276CA4FC2 /* chaussures nike.jpeg in Resources */,
+				07DAE38129774161FE513613 /* chaussures noir.jpeg in Resources */,
+				32C105676AC15FF8FF1CDD77 /* chaussures noire homme.jpeg in Resources */,
+				ABA573219CFF96EF6316D01C /* chaussures.jpeg in Resources */,
+				F077D0DBE432DE779772968F /* chaussurs foot.jpeg in Resources */,
+				D64FEE843496FEF8E261C859 /* chaussurs.jpeg in Resources */,
+				4A6757D4F8C015006E1C3615 /* chemine .jpeg in Resources */,
+				6FB6EE377FAFD4F7431A7DE0 /* chemine blue.jpeg in Resources */,
+				27AE412083F225FB670678E5 /* chemineblue.jpeg in Resources */,
+				6AAAA8D78FF4E03C9289039F /* jean.jpeg in Resources */,
+				8DF6114D2BCD04A07B5C67B0 /* kaku.jpeg in Resources */,
+				35BCE2DA8FFF3C43B1E54171 /* lacoste.jpeg in Resources */,
+				8485D1F4F8AE7292EFA7E516 /* logo RBS.jpeg in Resources */,
+				F306FBDFDCD6B09F52096A74 /* maron chaussures.jpeg in Resources */,
+				36083853E21CAE63116D263C /* t-shirt blue.jpeg in Resources */,
+				03835C1FDB9ACEF22B8794FE /* t-shirt gris.jpeg in Resources */,
+				C8D294E4B262535BAAAE09A4 /* t-shirt orange.jpeg in Resources */,
+				243FC3929719363947FC983B /* t-shirt rouge.jpeg in Resources */,
+				C97116845E6F26858266F153 /* tissue blanc .jpeg in Resources */,
+				DF1F1554F77A2CA15F3206D7 /* tissue gris .jpeg in Resources */,
+				2F15C238B41C33635B9EBB7C /* tissue maron.jpeg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6F097BE562A4BDF3906F3187 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				421B3F8CD8F23125624A9A54 /* ContentView.swift in Sources */,
+				5D4446BCEEB67918C2CC5FFB /* File.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		44A21FB6F24EE0BEBE4AB0DF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZGS6PT6427;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "RBS Boutique";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.shopping";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "RBS utilise l'accès à vos photos uniquement pour permettre à l'administrateur d'ajouter des photos d'articles dans le catalogue.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ratoushababyshop.app;
+				PRODUCT_NAME = RBS;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos macosx";
+				SUPPORTS_MACCATALYST = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		4DC43A99C77852E611665C19 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = ZGS6PT6427;
+				ENABLE_DEBUG_DYLIB = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		6473AE2A4B4902A347D6C33B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZGS6PT6427;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "RBS Boutique";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.shopping";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "RBS utilise l'accès à vos photos uniquement pour permettre à l'administrateur d'ajouter des photos d'articles dans le catalogue.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ratoushababyshop.app;
+				PRODUCT_NAME = RBS;
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos macosx";
+				SUPPORTS_MACCATALYST = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F6B26740FAC33F114D6C2E73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = ZGS6PT6427;
+				ENABLE_DEBUG_DYLIB = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B64616B60E25533EC14D383F /* Build configuration list for PBXProject "RBS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4DC43A99C77852E611665C19 /* Debug */,
+				F6B26740FAC33F114D6C2E73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		DDD44B55D97A863E95CA6B80 /* Build configuration list for PBXNativeTarget "RBS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6473AE2A4B4902A347D6C33B /* Debug */,
+				44A21FB6F24EE0BEBE4AB0DF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 24CEDEC219852D3EF68E2848 /* Project object */;
+}

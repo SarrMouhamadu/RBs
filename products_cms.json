@@ -1,0 +1,628 @@
+[
+  {
+    "badge" : "Best-Seller",
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "6F2196DC-B1E1-4869-BFC5-D698A5518DBE",
+    "imageFilename" : "chaussure nike blue et rouge.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Sneakers Sport Bleu & Rouge",
+    "rating" : 4.9
+  },
+  {
+    "badge" : "Populaire",
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "7642C8AE-5806-4E8B-84EA-721C475C5CF7",
+    "imageFilename" : "chaussures nike.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Sneakers Running RBS Premium",
+    "rating" : 4.9
+  },
+  {
+    "badge" : "Tendance",
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "D2D11E72-3933-4B30-9633-94C4AD2FF8D8",
+    "imageFilename" : "adidas.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Baskets Urbaines RBS Original",
+    "rating" : 4.8
+  },
+  {
+    "badge" : "Prestige",
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "B55871C4-A611-4551-AD4D-221E304F5B64",
+    "imageFilename" : "maron chaussures.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Mocassins Cuir Marron",
+    "rating" : 5
+  },
+  {
+    "badge" : "Luxe",
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "70E56822-0D29-42F6-9B9C-B679F4F146C1",
+    "imageFilename" : "chaussures hommes.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Chaussures Homme Classique",
+    "rating" : 4.9
+  },
+  {
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "C196AE7F-CCCA-4F4A-92DE-51C033A87720",
+    "imageFilename" : "chaussures noire homme.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Chaussures Noires Élégance",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "2D2B63AC-66B8-43EE-BE8F-BE77F3D62C22",
+    "imageFilename" : "chaussures noir.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Derby Ville Noir",
+    "rating" : 4.7
+  },
+  {
+    "badge" : "Sport",
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "C85542F7-3DEC-4703-9999-D87B05079603",
+    "imageFilename" : "chaussures foot.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Crampons Football Pro",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "8F89C932-1E3D-4898-BA6F-95D4917A8143",
+    "imageFilename" : "chaussurs foot.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Crampons Terrain Élite",
+    "rating" : 4.7
+  },
+  {
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "B7FEA80C-680D-44DE-8429-C37579BFCC45",
+    "imageFilename" : "chaussures.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Chaussures Détente RBS",
+    "rating" : 4.6
+  },
+  {
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "9DF01163-2092-42C6-8DAC-DC83E3369058",
+    "imageFilename" : "chaussures .jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Mocassins Confort Souple",
+    "rating" : 4.7
+  },
+  {
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "EBCF182E-BEA7-4D29-B4A2-5D2B67BAF3CE",
+    "imageFilename" : "chaussures copie.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Baskets Sport Casual",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Chaussures",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "6C3C0ED7-1779-4129-9BD5-8B9819AECB95",
+    "imageFilename" : "chaussurs.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Sneakers Urbaines RBS",
+    "rating" : 4.7
+  },
+  {
+    "badge" : "Best-Seller",
+    "category" : "Hauts & Chemises",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "F76BC71A-3EE4-429B-A20A-D9CA03DDE58A",
+    "imageFilename" : "lacoste.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Polo Maille Piquée Prestige",
+    "rating" : 4.9
+  },
+  {
+    "badge" : "Exclusif",
+    "category" : "Hauts & Chemises",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "44E97130-4C0D-49EB-A2E7-F233182D49FD",
+    "imageFilename" : "kaku.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Ensemble Kaku Prestige",
+    "rating" : 5
+  },
+  {
+    "badge" : "Nouveau",
+    "category" : "Hauts & Chemises",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "C68ADC26-29E9-45FC-91FB-7BC705FA3175",
+    "imageFilename" : "chemine blue.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Chemise Bleue Royale",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Hauts & Chemises",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "5E11CCFA-F752-4C7F-AAE7-5498A1ECD698",
+    "imageFilename" : "chemineblue.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Chemise Bleu Ciel Slim",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Hauts & Chemises",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "E2D3ACED-1C1D-4A44-A092-4C5D8FF3D86C",
+    "imageFilename" : "chemine .jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Chemise Cérémonie RBS",
+    "rating" : 4.7
+  },
+  {
+    "category" : "Hauts & Chemises",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "2EA94042-E3C7-4B0F-B5CB-0A879802C7AE",
+    "imageFilename" : "t-shirt blue.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "T-Shirt Bleu Coton Premium",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Hauts & Chemises",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "4DF57F16-38EC-4963-A6F2-BB7A9BD65CE6",
+    "imageFilename" : "t-shirt gris.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "T-Shirt Gris Chiné",
+    "rating" : 4.7
+  },
+  {
+    "category" : "Hauts & Chemises",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "0A927CAB-0514-4FF9-BF73-7493944D6592",
+    "imageFilename" : "t-shirt orange.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "T-Shirt Orange Éclat",
+    "rating" : 4.7
+  },
+  {
+    "category" : "Hauts & Chemises",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "8386D839-4EB5-4B1D-8FB2-4E8997AFCCA8",
+    "imageFilename" : "t-shirt rouge.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "T-Shirt Rouge Intense",
+    "rating" : 4.8
+  },
+  {
+    "badge" : "Indispensable",
+    "category" : "Pantalons",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "2CB10B82-96D4-4C1C-811A-9D7797C6C5DC",
+    "imageFilename" : "jean.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Jean Denim Coupe Droite",
+    "rating" : 4.9
+  },
+  {
+    "badge" : "Qualité Supérieure",
+    "category" : "Tissus",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "C7B1FE0C-986E-4922-85DC-27CC14188099",
+    "imageFilename" : "tissue blanc .jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Tissu Blanc Bazin \/ Fil à Fil",
+    "rating" : 4.9
+  },
+  {
+    "category" : "Tissus",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "F1DDABE5-6FE0-4BBD-8FCA-ADF2470BA243",
+    "imageFilename" : "tissue gris .jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Tissu Gris Prestige",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Tissus",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "1FC72CE0-DAC7-4635-A603-BCC372516D42",
+    "imageFilename" : "tissue maron.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Tissu Marron Royal",
+    "rating" : 4.8
+  },
+  {
+    "badge" : "Nouveau",
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "8B176C90-1F9C-48E4-B2D2-C140E51D4FCB",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.26.46.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Arrivage Exclusif RBS #1",
+    "rating" : 4.8
+  },
+  {
+    "badge" : "Nouveau",
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "C27B9D76-9EB1-488D-A076-C7031A1CBD3F",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.26.47.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Arrivage Exclusif RBS #2",
+    "rating" : 4.8
+  },
+  {
+    "badge" : "Nouveau",
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "0EF0444D-B517-42B6-9313-9342A9B78DD1",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.26.49.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : true,
+    "name" : "Arrivage Exclusif RBS #3",
+    "rating" : 4.8
+  },
+  {
+    "badge" : "Nouveau",
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "BAB61909-88C2-4917-AC51-BA945DCE3569",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.26.50.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #4",
+    "rating" : 4.8
+  },
+  {
+    "badge" : "Nouveau",
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "B30C903A-5F66-4911-B63F-ACC7C71688B1",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.26.51.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #5",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "8F6A28BD-4BF5-40F8-894B-AD6490B3EDE1",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.05 (1).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #6",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "BB8790A0-BE99-485C-B71B-06C07C180152",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.05 (2).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #7",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "5B4254B0-990A-40E6-BC19-72B6D9E5BA2C",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.06 (4).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #8",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "6DF1968A-D714-4795-B93C-554C2D316739",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.06 (6).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #9",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "DAA807AA-F937-4391-B370-CC73B1F3EB81",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.07 (2).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #10",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "F73A676C-1DAC-42A8-9283-4D0470F1340C",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.07 (3).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #11",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "87742AD6-EC13-4562-9190-EA6D87546112",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.07 (4).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #12",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "84C309FE-D939-4293-93CA-B277B3768D41",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.07.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #13",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "6122A3D7-AFF7-476D-8E3E-0FFDF5A1D38D",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.08 (1).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #14",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "48EBDE23-F4F3-49F6-8C6B-66783C176456",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.08 (2).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #15",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "B7F413F4-B270-4615-BD39-D8FD97C1FC82",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.08 (3).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #16",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "814F5866-E9A3-45B3-BC0E-719EC90E99F6",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.08 (4).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #17",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "5E547D2F-5512-4EB2-B599-798AFA43D997",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.08 (5).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #18",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "63418695-68B7-4763-870F-2EA20EAC6BE5",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.08.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #19",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "E5E97296-0422-4EF8-BD16-D355A93CF0B8",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.09 (1).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #20",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "9EDEE43E-B477-4EE4-9BE8-7355ABDCEF32",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.09 (2).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #21",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "B39D3E92-BAC9-4B42-BA7D-DFD70AF75BEA",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.09 (3).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #22",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "2656CA7C-A3E0-4AC3-B801-7CB1F4FFBE06",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.09 (4).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #23",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "4AB56555-42BD-4581-BE21-6FC1B171AEE0",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.09 (5).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #24",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "957A8CCE-65E5-4A1C-9F11-AAA7CB22160A",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.09 (6).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #25",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "3CEE8616-E54E-4977-96E6-2200327B1201",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.09.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #26",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "0942A504-E1DD-4F4F-8C1A-075C67B70A2B",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.10 (1).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #27",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "A0EA4526-114B-49DB-ABAC-D0B42863DAB8",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.10 (2).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #28",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "92CDF0D4-7038-4755-83B4-38C49DCCBD64",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.10 (3).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #29",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "DB6BC86C-98B2-43DD-8872-98317CF59379",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.10 (4).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #30",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "403B0061-84A5-46CF-ADC9-B2ED3AC6813B",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.10 (5).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #31",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "0973DD2B-7BA3-478D-8C34-0924D464B1A1",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.10 (6).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #32",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "6260DE53-AB42-43CE-9426-92E84CC3B2E3",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.10 (7).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #33",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "9EC5A9D8-5737-4AB9-B72D-A067C0F16816",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.11 (1).jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #34",
+    "rating" : 4.8
+  },
+  {
+    "category" : "Nouveautés",
+    "description" : "Article de qualité supérieure sélectionné par Ratousha Baby Shop (RBS). Finitions soignées, confort optimal et style élégant.",
+    "id" : "78A82AEF-8FE7-4BF1-B1B5-F9B817A13FAD",
+    "imageFilename" : "WhatsApp Image 2026-11-12 at 21.28.11.jpeg",
+    "isAvailable" : true,
+    "isFeatured" : false,
+    "name" : "Arrivage Exclusif RBS #35",
+    "rating" : 4.8
+  }
+]
